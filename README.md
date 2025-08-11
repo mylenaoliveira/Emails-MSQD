@@ -7,7 +7,7 @@ Neste repositório encontra-se todos os templates de e-mail do MS Qualifica Digi
 
 ## ⚠️ Atenção ao Layout!
 
-Este e-mail foi desenvolvido seguindo um layout 100% específico para garantir a melhor experiência visual em diferentes e-mails. Para visualizar os protótipos originais e garantir a fidelidade, acesse:
+Os templates foram desenvolvido seguindo um layout 100% específico para garantir a melhor experiência visual em diferentes tipos de e-mail. Para visualizar os protótipos originais e garantir a fidelidade, acesse:
 
 > **Link para os Protótipos:** [Figma](https://www.figma.com/design/ayw8OKjGURk4pWXLk14DEd/MS-Qualifica-Digital---Marketing-Digital?node-id=246-75)
 
@@ -18,7 +18,7 @@ Este e-mail foi desenvolvido seguindo um layout 100% específico para garantir a
 ## 🛠️ Como Usar (DEVS)
 Este projeto utiliza um template de e-mail com estilos inline para facilitar o processamento por diferentes provedores de e-mail. Além disso, antes de enviar, é necessário testar os links inclusos.
 
-### 1. Edite o E-mail
+### 1. Edite o E-mail (se necessário)
 - Os HTML que estão prontos para personalização e uso terminam com `Inline`.
 - Edite os arquivos correspondentes para fazer alterações no conteúdo.
 
@@ -40,8 +40,8 @@ Por exemplo:
     - E muitas outras
 
 
-### 3. Troque os dados que precisam ser específicos
+### 3. Troque os Dados que Precisam ser Específicos
 
 Dados como `Nome da vaga`, `Data de agendamento`, `Hora de agendamento`, `Protocolo`, `Nome do candidato`, e etc, precisa ter o dado correto correspondente.
 
-**É essenciak que seja corrigido**
+**É essencial que seja corrigido**
