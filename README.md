@@ -11,12 +11,12 @@ Este e-mail foi desenvolvido seguindo um layout 100% específico para garantir a
 
 > **Link para os Protótipos:** [Figma](https://www.figma.com/design/ayw8OKjGURk4pWXLk14DEd/MS-Qualifica-Digital---Marketing-Digital?node-id=246-75)
 
-**É crucial que o layout, estilo, margens e outras propriedades não sejam alteradas**
+**É crucial que o layout, estilo, margens e outras propriedades não sejam alteradas.**
 
 ---
 
 ## 🛠️ Como Usar
-Este projeto utiliza um template de e-mail com estilos inline para facilitar o processamento por diferentes provedores de e-mail. Além disso, antes de enviar, é necessário testar os links inclusos
+Este projeto utiliza um template de e-mail com estilos inline para facilitar o processamento por diferentes provedores de e-mail. Além disso, antes de enviar, é necessário testar os links inclusos.
 
 ### 1. Edite o E-mail
 - Os HTML que estão prontos para personalização e uso terminam com `Inline`
