@@ -1,13 +1,13 @@
 # Emails-MSQD
 
 ## 📋 Sobre
-Neste repositório encontra-se todos os templates de e-mail do MS Qualifica Digital. Dividos por tipo de usuário.
+Neste repositório encontram-se todos os templates de e-mail do MS Qualifica Digital. Dividos por tipo de usuário.
 
 ---
 
 ## ⚠️ Atenção ao Layout!
 
-Os templates foram desenvolvido seguindo um layout 100% específico para garantir a melhor experiência visual em diferentes tipos de e-mail. Para visualizar os protótipos originais e garantir a fidelidade, acesse:
+Os templates foram desenvolvidos seguindo um layout 100% específico para garantir a melhor experiência visual em diferentes tipos de e-mail. Para visualizar os protótipos originais e garantir a fidelidade, acesse:
 
 > **Link para os Protótipos:** [Figma](https://www.figma.com/design/ayw8OKjGURk4pWXLk14DEd/MS-Qualifica-Digital---Marketing-Digital?node-id=246-75)
 
