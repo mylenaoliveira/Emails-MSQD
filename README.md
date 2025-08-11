@@ -1,7 +1,7 @@
 # Emails-MSQD
 
 ## 📋 Sobre
-Neste repositório encontra-se todos os templates de e-mail do MS Qualifica Digital.
+Neste repositório encontra-se todos os templates de e-mail do MS Qualifica Digital. Dividos por tipo de usuário.
 
 ---
 
@@ -15,11 +15,11 @@ Este e-mail foi desenvolvido seguindo um layout 100% específico para garantir a
 
 ---
 
-## 🛠️ Como Usar
+## 🛠️ Como Usar (DEVS)
 Este projeto utiliza um template de e-mail com estilos inline para facilitar o processamento por diferentes provedores de e-mail. Além disso, antes de enviar, é necessário testar os links inclusos.
 
 ### 1. Edite o E-mail
-- Os HTML que estão prontos para personalização e uso terminam com `Inline`
+- Os HTML que estão prontos para personalização e uso terminam com `Inline`.
 - Edite os arquivos correspondentes para fazer alterações no conteúdo.
 
 
@@ -38,3 +38,10 @@ Por exemplo:
     - Ver Detalhes do Curso
     - Recebimento de Vouchers
     - E muitas outras
+
+
+### 3. Troque os dados que precisam ser específicos
+
+Dados como `Nome da vaga`, `Data de agendamento`, `Hora de agendamento`, `Protocolo`, `Nome do candidato`, e etc, precisa ter o dado correto correspondente.
+
+**É essenciak que seja corrigido**
