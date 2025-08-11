@@ -44,4 +44,4 @@ Por exemplo:
 
 Dados como `Nome da vaga`, `Data de agendamento`, `Hora de agendamento`, `Protocolo`, `Nome do candidato`, e etc, precisa ter o dado correto correspondente.
 
-**É essencial que seja corrigido**
+**É essencial que seja corrigido antes de ser enviado.**
