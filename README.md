@@ -1,4 +1,4 @@
-# Emails-MSQD
+# E-mails MS Qualifica Digital
 
 ## 📋 Sobre
 Neste repositório encontram-se todos os templates de e-mail do MS Qualifica Digital. Dividos por tipo de usuário.
