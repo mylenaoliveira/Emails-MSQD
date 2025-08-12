@@ -27,7 +27,7 @@ Este projeto utiliza um template de e-mail com estilos inline para facilitar o p
 
 **É fundamental substituir todos os links placeholders (`#`) pelos URLs corretos.**
 
-- **Link de Descadaste-se:** O link para descadastro deve ser colocado na seção de rodapé. Substitua o `#` pelo link de descadastro oficial da plataforma.
+- **Link de Descadastre-se:** O link para descadastro deve ser colocado na seção de rodapé. Substitua o `#` pelo link de descadastro oficial da plataforma.
 - **Links de Páginas Específicas:** Para o botão "Aumentar validade" ou outros links específicos para vagas, substitua o `#` pelo URL da página de destino. 
 Por exemplo:
     - Recuperação de Senha
